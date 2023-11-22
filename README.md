@@ -9,9 +9,13 @@ componentDidMount()
 
 ### Updating
 getDerivedStateFromProps()
+
 shouldComponentUpdate()
+
 render()
+
 getSnapshotBeforeUpdate()
+
 componentDidUpdate()
 
 ### Unmounting
